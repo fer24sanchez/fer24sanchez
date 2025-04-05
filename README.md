@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **célula táctica comercial prevención salud sancor seguros**<br><br>🌱 I’m currently learning **node.js, microservices, aws**<br><br>💬 Ask me about **c#, mvc, wcf, vue.js, sqlserver, oracle**<br><br>📫 How to reach me **fer24sanchez@gmail.com**
+🔭 I’m Fullstack Developer in **TSOFT**<br><br>🌱 I’m currently learning **node.js, microservices, aws** in UCSE <br><br>💬 Ask me about **c#, mvc, wcf, vue.js, sqlserver, oracle**<br><br>📫 How to reach me **fer24sanchez@gmail.com**
 
 
 ## 🌐 Socials:
